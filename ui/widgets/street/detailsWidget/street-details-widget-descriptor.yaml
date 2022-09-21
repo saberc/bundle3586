@@ -1,0 +1,6 @@
+code: street-details-widget
+titles:
+  en: Street Details Widget
+  it: Street Details Widget
+group: free
+customUiPath: street-details-widget.ftl

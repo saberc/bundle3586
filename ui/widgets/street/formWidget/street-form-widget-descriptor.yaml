@@ -1,0 +1,6 @@
+code: street-form-widget
+titles:
+  en: Street Form Widget
+  it: Street Form Widget
+group: free
+customUiPath: street-form-widget.ftl

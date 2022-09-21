@@ -1,0 +1,6 @@
+code: street-table-widget
+titles:
+  en: Street Table Widget
+  it: Street Table Widget
+group: free
+customUiPath: street-table-widget.ftl

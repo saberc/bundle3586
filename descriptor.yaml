@@ -1,0 +1,13 @@
+code: bundle3586
+description: This is the bundle3586 bundle
+
+components:
+  plugins:
+    - plugins/bundle3586-plugin.yaml
+
+  widgets:
+    - ui/widgets/street/tableWidget/street-table-widget-descriptor.yaml
+    - ui/widgets/street/detailsWidget/street-details-widget-descriptor.yaml
+    - ui/widgets/street/formWidget/street-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
